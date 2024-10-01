@@ -27,6 +27,7 @@ nav .logo a {
 .logo img {
     width: 150px;
     height: auto; 
+    margin-left: auto;
 }
 
 
